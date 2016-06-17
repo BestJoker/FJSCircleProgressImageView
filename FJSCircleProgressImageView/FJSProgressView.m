@@ -8,7 +8,7 @@
 
 #import "FJSProgressView.h"
 #define kLineWidth 3.0
-#define kDuration 0.5
+#define kDuration 1.0
 @interface FJSProgressView ()
 @property (nonatomic,strong)CAShapeLayer * circleShapeLayer;
 @property (nonatomic,strong)CAShapeLayer * speardShapeLayer;
